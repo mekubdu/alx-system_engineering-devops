@@ -1,12 +1,14 @@
 Project Name.
+===
 0x0B. SSH
+==
 
 Author's Details.
-Name: Wendy Munyasi.
+Name: Mekuriaw M. Chekol.
 
-Email: wendymunyasi@gmail.com
+Email: mekubdu@gmail.com
 
-Tel:+254707240068.
+Tel:+251910449635.
 
 Requirements
 Allowed editors: vi, vim, emacs.
@@ -22,6 +24,7 @@ Learn what is a server. Where servers usually live. What is SSH. How to create a
 0. Use a private key - Write a Bash script that uses ssh to connect to your server using the private key ~/.ssh/school with the user ubuntu. - 0-use_a_private_key.
 
 Requirements:
+--
 
 Only use ssh single-character flags.
 You cannot use -l.
