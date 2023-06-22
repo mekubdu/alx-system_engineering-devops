@@ -114,4 +114,4 @@ Notice: /Stage[main]/Main/File_line[Declare identity file]/ensure: created
 Notice: Finished catalog run in 0.03 seconds
 vagrant@ubuntu:~$
 Collaborate
-To collaborate, reach me through my email address wendymunyasi@gmail.com.
+To collaborate, reach me through my email address mekubdu@gmail.com.
