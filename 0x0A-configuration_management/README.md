@@ -1,12 +1,14 @@
 Project Name.
+==
 0x0A. Configuration management
+==
 
 Author's Details.
-Name: Wendy Munyasi.
+Name: Mekuriaw Melkamu Chekol.
 
-Email: wendymunyasi@gmail.com
+Email: mekubdu@gmail.com
 
-Tel:+254707240068.
+Tel:+251910449635
 
 Requirements
 Bash Scripts
