@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 #  Config SSH config file for automated passwordless connection using Puppet
 
 include stdlib
