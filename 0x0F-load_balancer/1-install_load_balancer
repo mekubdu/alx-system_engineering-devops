@@ -6,7 +6,7 @@ sudo add-apt-repository -y ppa:vbernat/haproxy-2.4
 sudo apt-get -y install haproxy
 
 # the load balancer's configuration
-DOMAIN_NAME='mubareksd.tech'
+DOMAIN_NAME='beta-scribbles.tech'
 INIT_FILE='/etc/default/haproxy'
 CONFIG_FILE='/etc/haproxy/haproxy.cfg'
 HAPROXY_LB_CONFIG=\
@@ -15,7 +15,7 @@ HAPROXY_LB_CONFIG=\
 backend $DOMAIN_NAME-backend
 	balance roundrobin
 	server 208634-web-01 54.165.43.165:80 check
-	server 51402-web-02 18.208.119.182:80 check
+	server web-02 54.88.34.124:80 check
 frontend $DOMAIN_NAME-frontend
 	bind *:80
 	mode http
