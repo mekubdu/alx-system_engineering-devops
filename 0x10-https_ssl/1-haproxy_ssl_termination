@@ -47,4 +47,4 @@ frontend https.mubareksd.tech
 backend webservers
 	balance roundrobin
 	server 208634-web-01 54.165.43.165:80 check
-	server 51402-web-02 18.208.119.182:80 check
+	server web-02 54.88.34.124:80 check

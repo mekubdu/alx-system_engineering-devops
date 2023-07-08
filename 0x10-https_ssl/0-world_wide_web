@@ -7,7 +7,7 @@ if [ $# -eq 1 ];
 then
     prints "www.$1" "www"
     prints "lb-01.$1" "lb-01"
-    prints "web-01.$1" "web-01"
+    prints "208634-web-01.$1" "208634-web-01"
     prints "web-02.$1" "web-02"
 elif [ $# -eq 2 ];
 then
